@@ -1,0 +1,17 @@
+grep 
+
+grep -n -A3 -B2 --color= auto 'eth' ; //显示行号 目标行 前边2行和 后边3行也显示出来 自动着色
+
+grep -vn 'the' filename //不带有该字符串的行才会输出
+
+grep -in 'the' regular_ express. txt；//i 忽略大小写
+
+[] 里面 不论 有几个 字符， 它 都 只 代表 某“ 一个” 字符，
+
+鸟哥. 鸟哥的Linux 私房菜 基础学习篇（第三版）（异步图书） (Kindle 位置 9681-9682). Kindle 版本. 
+
+鸟哥. 鸟哥的Linux 私房菜 基础学习篇（第三版）（异步图书） (Kindle 位置 9673-9674). Kindle 版本. 
+
+鸟哥. 鸟哥的Linux 私房菜 基础学习篇（第三版）（异步图书） (Kindle 位置 9671-9672). Kindle 版本. 
+
+鸟哥. 鸟哥的Linux 私房菜 基础学习篇（第三版）（异步图书） (Kindle位置9632). Kindle 版本. 
